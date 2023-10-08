@@ -1,6 +1,6 @@
 # high-z-quasars-hubble-diagram
 
-This is a Python implementation of using quasars as standard candles described in "Quasars as standard candles III. Validation of a new sample for cosmological studies", A&A 2020, and "A Hubble Diagram for Quasars", 2015. The catalog used in this script is available at http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/642/A150. The 
+This is a Python implementation of using quasars as standard candles described in "Quasars as standard candles III. Validation of a new sample for cosmological studies", A&A 2020, and "A Hubble Diagram for Quasars", 2015. The catalog used in this script is available at http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/642/A150. 
 
 Below code is a step-by-step instruction of how researchers establish the hubble diagram for quasars at high redshift:
 1. Perform a linear fit on the UV and X-ray flux data to find the log-linear relationship.
