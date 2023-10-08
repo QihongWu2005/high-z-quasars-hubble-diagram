@@ -4,4 +4,6 @@ Below code is a step-by-step instruction of how researchers establish the hubble
 1. Perform a linear fit on the UV and x-ray flux data to find the log-linear relationship.
 This is based on a log-linear relation found between Luminosities of X-rays and Ultraviolet. Replacing Luminosity in the equation with expression of Flux, we get the log-linear relation of Flux that we can perform a linear fit to get the parameters beta and gamma. 
 
-2. 
+2. Use fitted parameters to calculate luminosity distance $d_L$.
+3. From $d_L$ calculate distance modulus DM and e_DM.
+4. Plot the Hubble diagram of DM vs. z and fit the diagram with MCMC.
